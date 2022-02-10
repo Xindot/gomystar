@@ -1,1 +1,1 @@
-# gomystar
+gomystar.com
